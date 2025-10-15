@@ -36,18 +36,6 @@ This repository contains the source code for "Gravity," a maze-based treasure co
 
 ---
 
-## Screenshots
-
-Here are some screenshots from the game, showing the start screen and a "Game Over" scenario.
-
-![Start of Gravity Game](https://i.imgur.com/8Qj8nU6.png)
-_The initial game screen, showing the player, robots, and treasures within the maze._
-
-![Game Over Screen](https://i.imgur.com/c6c2V4w.png)
-_The "Game Over" screen, triggered after a robot catches the player._
-
----
-
 ## Team Contributions
 
 * **YASAMIN VALISHARIATPANAHI**: Implemented the robot's random movement algorithm and the game-over condition when a robot catches the player.
